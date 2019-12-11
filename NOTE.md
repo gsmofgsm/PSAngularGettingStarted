@@ -25,3 +25,5 @@ console.log(nickName)
 OnInit
 OnChanges
 OnDestroy
+
+* ngOnChanges() only watches changes of Input
