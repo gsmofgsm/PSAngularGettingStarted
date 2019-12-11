@@ -27,3 +27,6 @@ OnChanges
 OnDestroy
 
 * ngOnChanges() only watches changes of Input
+
+## Output
+the eventEmitter is from angular/core
