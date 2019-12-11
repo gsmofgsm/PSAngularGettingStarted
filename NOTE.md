@@ -19,3 +19,9 @@ di doo punkeye
 for nickName in nickNames
 console.log(nickName)
 0 1 2
+
+## lifecycle
+
+OnInit
+OnChanges
+OnDestroy
