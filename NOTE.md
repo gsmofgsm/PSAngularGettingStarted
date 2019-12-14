@@ -34,3 +34,11 @@ the eventEmitter is from angular/core
 ## Routing
 path in RouterModule.forRoot([{path: 'products', component: ProductListComponent}]) should be without the leading forward slash '/'
 but url in routerLink must have a leading slash
+
+### Protecting routes with guard
+
+CanActive - guard navigation to a route
+CanDeactivate - guard nativation from a route
+Resolve - Prefetch data before activating a route
+CanLoad - Prevent asynchronous routing
+
